@@ -2,6 +2,8 @@
   "version": 2,
   "name": "Santo Domingo FIR",
   "id": "dd2e4f11-675f-46db-8e81-4a8f57efe9fe",
+  "updateUrl": "https://raw.githubusercontent.com/yancarlos4500/MDCS_vATIS/refs/heads/main/vATIS%20Profile%20-%20Santo%20Domingo%20FIR.json",
+  "updateSerial": 2024121602,
   "stations": [
     {
       "id": "df6dfedd-b148-4a46-8fcb-fa4288b18a5f",
